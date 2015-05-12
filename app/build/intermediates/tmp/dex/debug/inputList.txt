@@ -1,1 +1,9 @@
 C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\classes\debug
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a22ee21dd71f2f3038bb3cb89ea757e89a5a689f.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c462835f97b18ee6a3889f56ff36f79e65baea45.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\classes-24723038342a2f179d87f2a0389c01f6306e419e.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-a2ec37c2fb1de2a8dd5f1e98b8cac04110bdb02a.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-f47b87cf23b7451b39b3d516e528fd919434456d.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-bfb09603108a5e0fdc3f30a3dded9eb84b33e4e4.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\gson-2.3.1-70e89a193226737855e5956cca1bb83ff2bac713.jar
+C:\Users\edward.ganuelas\AndroidStudioProjects\EmPubLite\app\build\intermediates\pre-dexed\debug\classes-f1520753182bec04dff537644db16152529d6d22.jar
